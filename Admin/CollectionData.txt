@@ -162,7 +162,7 @@ Monsters/Monster_sprinklate_rare
 Monsters/Monster_jamboree_undof
 Monsters/Monster_jamboree_rare_undof
 Monsters/Monster_ghazt_undof
-Monsters/Monster_ghazt_rare_undof
+Monsters/Monster_keymond
 Monsters/Monster_dipster_1
 Monsters/Monster_dipster_2
 Monsters/Monster_dipster_3
