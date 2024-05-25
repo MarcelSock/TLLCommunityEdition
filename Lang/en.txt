@@ -397,7 +397,7 @@ Monsters/Knott_special_rare_bio=Are ya ready kids? I hope so, rare chimbickle wi
 
 
 Monsters/Monster_handmond=Handmond
-Monsters/Monster_handmond_bio=Handmond bio
+Monsters/Monster_handmond_bio=Now that's extraordinary! The Handmond.
 
 Monsters/Monster_mammott_dream=Demented Mammott
 Monsters/Monster_mammott_dream_bio=It's too late
